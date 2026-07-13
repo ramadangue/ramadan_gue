@@ -39,6 +39,14 @@ Passionate Full Stack Developer with experience in building modern, responsive, 
 
 ## 📫 Contact Me
 
+📬 Contact Me
+
+Have a project in mind or want to collaborate?
+
+I'm always open to freelance opportunities, partnerships, and exciting ideas.
+
+Feel free to connect with me through any of my social media accounts. I'll be happy to hear from you!
+
 Feel free to contact me for freelance projects, collaborations, or any development inquiries.
 
 ---
