@@ -55,27 +55,27 @@ Feel free to contact me for freelance projects, collaborations, or any developme
 
 <p align="center">
 
-<a href="https://facebook.com/YOUR_USERNAME">
+<a href="https://www.facebook.com/thisgueramadan">
 <img src="https://skillicons.dev/icons?i=facebook" height="48">
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/ramadangue?igsh=MWZ4NmNicHJzbHg1">
 <img src="https://skillicons.dev/icons?i=instagram" height="48">
 </a>
 
-<a href="https://youtube.com/@YOUR_USERNAME">
+<a href="https://youtube.com/@gueman7?si=oDT7NbB2ffcb4sGr">
 <img src="https://skillicons.dev/icons?i=youtube" height="48">
 </a>
 
-<a href="https://www.tiktok.com/@YOUR_USERNAME">
+<a href="https://www.tiktok.com/@thisramadangue?_r=1&_t=ZN-97rW82HwOud">
 <img src="https://cdn.simpleicons.org/tiktok" height="48">
 </a>
 
-<a href="https://www.snapchat.com/add/YOUR_USERNAME">
+<a href="https://www.snapchat.com/add/r_gue07?share_id=lRxZFr2wH1c&locale=fr-FR">
 <img src="https://cdn.simpleicons.org/snapchat" height="48">
 </a>
 
-<a href="https://x.com/YOUR_USERNAME">
+<a href="https://x.com/gline_ramadan">
 <img src="https://skillicons.dev/icons?i=twitter" height="48">
 </a>
 
