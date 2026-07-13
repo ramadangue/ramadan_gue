@@ -1,1 +1,91 @@
-# ramadan_gue
+# 👋 Hi, I'm Ramadan Gue
+
+## 💻 Full Stack Web Developer
+
+Passionate Full Stack Developer with experience in building modern, responsive, and high-performance web applications. I enjoy turning ideas into real-world projects using clean code and modern technologies.
+
+---
+
+## 🚀 About Me
+
+- 💡 Passionate about Web Development
+- 🌱 Always learning new technologies
+- 🎯 Focused on writing clean and scalable code
+- ⚡ Love creating responsive and user-friendly websites
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=php,python,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+Feel free to contact me for freelance projects, collaborations, or any development inquiries.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://facebook.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=facebook" height="48">
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" height="48">
+</a>
+
+<a href="https://youtube.com/@YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=youtube" height="48">
+</a>
+
+<a href="https://www.tiktok.com/@YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/tiktok" height="48">
+</a>
+
+<a href="https://www.snapchat.com/add/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/snapchat" height="48">
+</a>
+
+<a href="https://x.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter" height="48">
+</a>
+
+</p>
+
+---
+
+### ⚡ Languages & Technologies
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap 5
+- PHP
+- MySQL
+- Python
+
+---
+
+> "Code. Create. Innovate."
+
