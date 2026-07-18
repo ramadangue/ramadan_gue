@@ -31,9 +31,9 @@ Passionate Full Stack Developer with experience in building modern, responsive, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramadangue&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramadan_gue&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadangue&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadan_gue&layout=compact&theme=tokyonight)
 
 ---
 
@@ -56,22 +56,22 @@ Feel free to contact me for freelance projects, collaborations, or any developme
 <p align="center">
 
 <a href="https://www.facebook.com/thisgueramadan">
-<img src="https://skillicons.dev/icons?i=facebook" height="48">
+<img src="https://cdn.simpleicons.org/facebook" height="48">
 </a>
 
-<a href="https://www.instagram.com/ramadangue?igsh=MWZ4NmNicHJzbHg1">
+<a href="https://www.instagram.com/ramadangue">
 <img src="https://skillicons.dev/icons?i=instagram" height="48">
 </a>
 
-<a href="https://youtube.com/@gueman7?si=oDT7NbB2ffcb4sGr">
-<img src="https://skillicons.dev/icons?i=youtube" height="48">
+<a href="https://youtube.com/@gueman7">
+<img src="https://cdn.simpleicons.org/youtube" height="48">
 </a>
 
-<a href="https://www.tiktok.com/@thisramadangue?_r=1&_t=ZN-97rW82HwOud">
+<a href="https://www.tiktok.com/@thisramadangue">
 <img src="https://cdn.simpleicons.org/tiktok" height="48">
 </a>
 
-<a href="https://www.snapchat.com/add/r_gue07?share_id=lRxZFr2wH1c&locale=fr-FR">
+<a href="https://www.snapchat.com/add/r_gue07">
 <img src="https://cdn.simpleicons.org/snapchat" height="48">
 </a>
 
@@ -79,6 +79,9 @@ Feel free to contact me for freelance projects, collaborations, or any developme
 <img src="https://skillicons.dev/icons?i=twitter" height="48">
 </a>
 
+<a href="https://github.com/ramadangue">
+<img src="https://skillicons.dev/icons?i=github" height="48">
+</a>
 </p>
 
 ---
